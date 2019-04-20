@@ -9,5 +9,6 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "express": "*"
+        "express": "^4.16.4"
+    }
 }
